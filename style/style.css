@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+.gg {
+    border-left: 10px dotted ;
+}
+
+a {
+    color: black;
+    font-size: 20px;
+     text-decoration: none ;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer{
+    background-color:black;
+}
+
+.llll {
+    color:white;
+}
